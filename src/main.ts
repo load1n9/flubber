@@ -1,0 +1,1 @@
+Flubber.print("From Typescript with Flubber");
